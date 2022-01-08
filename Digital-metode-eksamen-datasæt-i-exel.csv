@@ -1,0 +1,300 @@
+﻿Regions;Country_Name;Year;CO2_emissions;GDP_growth;Unemployment_total;Average_regions;Year2;Average_CO2_emissions_regions;Average_GDP_growth_regions;Series_Name;Series_Description;YR2019;YR2018;YR2017;YR2016;YR2015;YR2014;YR2013;YR2012;YR2011;YR2010;YR2009;YR2008;YR2007;YR2006;YR2005;YR2004;YR2003;YR2002;YR2001;YR2000;Series Code
+Central_Europe;Austria;2009;7,72;-3,76;5,30;Central_Europe;2010;9,57;2,82;;Metric tons per capita;NA;7,15;7,48;7,26;7,31;7,25;7,75;7,72;8,14;8,37;7,72;8,50;8,59;8,96;9,27;9,28;9,17;8,58;8,44;7,93;EN.ATM.CO2E.PC
+Central_Europe;Austria;2010;8,37;1,84;4,82;Central_Europe;2015;8,66;2,63;;% of total labor force, national estimate;4,49;4,85;5,50;6,01;5,72;5,62;5,33;4,87;4,56;4,82;5,30;4,13;4,86;5,24;5,63;5,83;4,78;4,85;4,01;4,69;SL.UEM.TOTL.NE.ZS
+Central_Europe;Austria;2011;8,14;2,92;4,56;Central_Europe;2018;8,45;2,35;;Annual in %;1,42;2,58;2,40;1,99;1,01;0,66;0,03;0,68;2,92;1,84;-3,76;1,46;3,73;3,45;2,24;2,74;0,94;1,65;1,27;3,38;NY.GDP.MKTP.KD.ZG
+Central_Europe;Austria;2012;7,72;0,68;4,87;Western_Europe;2010;11,23;2,61;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Austria;2013;7,75;0,03;5,33;Western_Europe;2015;9,27;6,92;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Austria;2014;7,25;0,66;5,62;Western_Europe;2018;8,91;3,51;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Austria;2015;7,31;1,01;5,72;Eastern_Europe;2010;6,48;0,92;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Austria;2016;7,26;1,99;6,01;Eastern_Europe;2015;5,85;3,46;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Austria;2017;7,48;2,40;5,50;Eastern_Europe;2018;6,12;4,29;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Austria;2018;7,15;2,58;4,85;South_Europe;2010;6,36;0,72;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Austria;2019;NA;1,42;4,49;South_Europe;2015;5,26;2,93;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Belgium;2009;9,23;-2,02;7,91;South_Europe;2018;5,24;3,17;CO2 emissions;Metric tons per capita;NA;8,18;8,16;8,32;8,44;8,04;8,66;8,55;8,66;9,77;9,23;9,98;9,84;10,30;10,56;10,94;11,13;10,73;11,50;11,44;EN.ATM.CO2E.PC
+Western_Europe;Belgium;2010;9,77;2,86;8,29;North_Europe;2010;8,49;3,67;Unemployment, total;% of total labor force, national estimate;5,36;5,95;7,09;7,83;8,48;8,52;8,43;7,54;7,14;8,29;7,91;6,98;7,46;8,25;8,44;7,36;7,68;6,91;6,18;6,59;SL.UEM.TOTL.NE.ZS
+Western_Europe;Belgium;2011;8,66;1,69;7,14;North_Europe;2015;5,91;2,46;GDP growth;Annual in %;1,78;1,79;1,62;1,27;2,04;1,58;0,46;0,74;1,69;2,86;-2,02;0,45;3,68;2,55;2,32;3,57;1,04;1,71;1,10;3,72;NY.GDP.MKTP.KD.ZG
+Western_Europe;Belgium;2012;8,55;0,74;7,54;North_Europe;2018;5,78;1,81;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Belgium;2013;8,66;0,46;8,43;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Belgium;2014;8,04;1,58;8,52;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Belgium;2015;8,44;2,04;8,48;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Belgium;2016;8,32;1,27;7,83;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Belgium;2017;8,16;1,62;7,09;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Belgium;2018;8,18;1,79;5,95;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Belgium;2019;NA;1,78;5,36;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Bulgaria;2009;5,77;-3,37;6,82;;;;;CO2 emissions;Metric tons per capita;NA;5,85;6,22;5,86;6,23;5,85;5,48;6,18;6,76;6,06;5,77;6,68;6,97;6,44;6,25;6,11;6,16;5,57;5,77;5,30;EN.ATM.CO2E.PC
+Eastern_Europe;Bulgaria;2010;6,06;0,56;10,28;;;;;Unemployment, total;% of total labor force, national estimate;4,23;5,21;6,16;7,57;9,14;11,42;12,94;12,27;11,26;10,28;6,82;5,61;6,88;8,95;10,08;12,04;13,73;18,11;19,92;16,22;SL.UEM.TOTL.NE.ZS
+Eastern_Europe;Bulgaria;2011;6,76;2,35;11,26;;;;;GDP growth;Annual in %;3,69;3,09;3,50;3,82;3,99;1,89;0,33;0,36;2,35;0,56;-3,37;6,09;6,56;6,80;7,15;6,44;5,15;5,95;3,82;4,78;NY.GDP.MKTP.KD.ZG
+Eastern_Europe;Bulgaria;2012;6,18;0,36;12,27;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Bulgaria;2013;5,48;0,33;12,94;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Bulgaria;2014;5,85;1,89;11,42;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Bulgaria;2015;6,23;3,99;9,14;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Bulgaria;2016;5,86;3,82;7,57;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Bulgaria;2017;6,22;3,50;6,16;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Bulgaria;2018;5,85;3,09;5,21;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Bulgaria;2019;NA;3,69;4,23;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Croatia;2009;4,72;-7,32;9,20;;;;;CO2 emissions;Metric tons per capita;NA;4,06;4,24;4,06;3,97;3,86;4,00;4,09;4,45;4,53;4,72;5,04;5,31;5,01;4,98;4,90;5,02;4,71;4,47;4,04;EN.ATM.CO2E.PC
+South_Europe;Croatia;2010;4,53;-1,32;11,62;;;;;Unemployment, total;% of total labor force, national estimate;6,62;8,43;11,21;13,10;16,18;17,29;17,25;15,93;13,68;11,62;9,20;8,53;9,91;11,13;12,60;13,66;13,92;15,05;15,82;16,06;SL.UEM.TOTL.NE.ZS
+South_Europe;Croatia;2011;4,45;-0,20;13,68;;;;;GDP growth;Annual in %;2,86;2,81;3,44;3,50;2,43;-0,34;-0,45;-2,39;-0,20;-1,32;-7,32;1,89;5,07;4,99;4,31;4,15;5,64;5,68;2,96;2,86;NY.GDP.MKTP.KD.ZG
+South_Europe;Croatia;2012;4,09;-2,39;15,93;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Croatia;2013;4,00;-0,45;17,25;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Croatia;2014;3,86;-0,34;17,29;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Croatia;2015;3,97;2,43;16,18;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Croatia;2016;4,06;3,50;13,10;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Croatia;2017;4,24;3,44;11,21;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Croatia;2018;4,06;2,81;8,43;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Croatia;2019;NA;2,86;6,62;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Denmark;2009;8,67;-4,91;6,41;;;;;CO2 emissions;Metric tons per capita;NA;5,76;5,78;6,18;5,91;6,34;7,12;6,83;7,74;8,68;8,67;9,12;9,78;10,71;9,28;9,97;11,01;10,04;10,05;9,87;EN.ATM.CO2E.PC
+North_Europe;Denmark;2010;8,68;1,87;7,75;;;;;Unemployment, total;% of total labor force, national estimate;5,02;5,13;5,83;5,99;6,28;6,93;7,38;7,80;7,77;7,75;6,41;3,68;3,80;3,90;4,83;5,20;5,40;4,27;4,16;4,48;SL.UEM.TOTL.NE.ZS
+North_Europe;Denmark;2011;7,74;1,34;7,77;;;;;GDP growth;Annual in %;2,85;2,18;2,82;3,25;2,34;1,62;0,93;0,23;1,34;1,87;-4,91;-0,51;0,91;3,91;2,34;2,67;0,39;0,47;0,82;3,75;NY.GDP.MKTP.KD.ZG
+North_Europe;Denmark;2012;6,83;0,23;7,80;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Denmark;2013;7,12;0,93;7,38;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Denmark;2014;6,34;1,62;6,93;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Denmark;2015;5,91;2,34;6,28;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Denmark;2016;6,18;3,25;5,99;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Denmark;2017;5,78;2,82;5,83;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Denmark;2018;5,76;2,18;5,13;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Denmark;2019;NA;2,85;5,02;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Cyprus;2009;7,45;-2,02;5,36;;;;;CO2 emissions;Metric tons per capita;NA;6,08;6,19;6,11;5,84;5,86;5,58;6,18;6,71;7,03;7,45;7,77;7,75;7,59;7,66;7,63;7,82;7,28;7,22;7,50;EN.ATM.CO2E.PC
+South_Europe;Cyprus;2010;7,03;2,01;6,26;;;;;Unemployment, total;% of total labor force, national estimate;7,07;8,37;11,05;12,95;14,91;16,09;15,87;11,80;7,86;6,26;5,36;3,65;3,92;4,54;5,30;4,33;4,14;3,30;3,98;4,97;SL.UEM.TOTL.NE.ZS
+South_Europe;Cyprus;2011;6,71;0,40;7,86;;;;;GDP growth;Annual in %;3,08;5,24;5,15;6,44;3,22;-1,83;-6,55;-3,45;0,40;2,01;-2,02;3,65;5,10;4,71;4,85;5,03;2,62;3,72;3,95;5,97;NY.GDP.MKTP.KD.ZG
+South_Europe;Cyprus;2012;6,18;-3,45;11,80;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Cyprus;2013;5,58;-6,55;15,87;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Cyprus;2014;5,86;-1,83;16,09;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Cyprus;2015;5,84;3,22;14,91;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Cyprus;2016;6,11;6,44;12,95;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Cyprus;2017;6,19;5,15;11,05;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Cyprus;2018;6,08;5,24;8,37;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Cyprus;2019;NA;3,08;7,07;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Czech Republic;2009;10,64;-4,66;6,66;;;;;CO2 emissions;Metric tons per capita;NA;9,64;9,76;9,73;9,58;9,48;9,77;10,20;10,57;10,88;10,64;11,39;12,00;11,78;11,75;12,11;12,04;11,62;12,01;12,01;EN.ATM.CO2E.PC
+Central_Europe;Czech Republic;2010;10,88;2,43;7,28;;;;;Unemployment, total;% of total labor force, national estimate;2,01;2,24;2,89;3,95;5,05;6,11;6,95;6,98;6,71;7,28;6,66;4,39;5,32;7,15;7,93;8,21;7,54;7,02;7,99;8,76;SL.UEM.TOTL.NE.ZS
+Central_Europe;Czech Republic;2011;10,57;1,76;6,71;;;;;GDP growth;Annual in %;2,31;3,20;5,17;2,54;5,39;2,26;-0,05;-0,79;1,76;2,43;-4,66;2,69;5,57;6,77;6,60;4,81;3,58;1,57;3,04;4,00;NY.GDP.MKTP.KD.ZG
+Central_Europe;Czech Republic;2012;10,20;-0,79;6,98;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Czech Republic;2013;9,77;-0,05;6,95;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Czech Republic;2014;9,48;2,26;6,11;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Czech Republic;2015;9,58;5,39;5,05;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Czech Republic;2016;9,73;2,54;3,95;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Czech Republic;2017;9,76;5,17;2,89;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Czech Republic;2018;9,64;3,20;2,24;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Czech Republic;2019;NA;2,31;2,01;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Estonia;2009;11,21;-14,43;13,55;;;;;CO2 emissions;Metric tons per capita;NA;12,10;12,36;11,89;11,68;13,56;14,56;12,69;13,60;14,18;11,21;13,68;14,81;11,80;12,64;12,42;12,28;10,77;11,01;10,61;EN.ATM.CO2E.PC
+Eastern_Europe;Estonia;2010;14,18;2,69;16,71;;;;;Unemployment, total;% of total labor force, national estimate;4,45;5,37;5,76;6,76;6,19;7,35;8,63;10,02;12,33;16,71;13,55;5,45;4,59;5,91;8,03;10,25;11,29;10,03;13,13;13,36;SL.UEM.TOTL.NE.ZS
+Eastern_Europe;Estonia;2011;13,60;7,43;12,33;;;;;GDP growth;Annual in %;5,00;4,36;5,50;3,19;1,84;2,99;1,35;3,11;7,43;2,69;-14,43;-5,09;7,57;9,72;9,49;6,77;7,57;6,80;5,98;10,11;NY.GDP.MKTP.KD.ZG
+Eastern_Europe;Estonia;2012;12,69;3,11;10,02;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Estonia;2013;14,56;1,35;8,63;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Estonia;2014;13,56;2,99;7,35;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Estonia;2015;11,68;1,84;6,19;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Estonia;2016;11,89;3,19;6,76;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Estonia;2017;12,36;5,50;5,76;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Estonia;2018;12,10;4,36;5,37;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Estonia;2019;NA;5,00;4,45;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Finland;2009;10,15;-8,07;8,25;;;;;CO2 emissions;Metric tons per capita;NA;8,04;7,81;8,32;7,81;8,45;9,23;9,13;10,23;11,66;10,15;10,66;12,31;12,73;10,57;12,95;13,76;12,20;11,78;10,64;EN.ATM.CO2E.PC
+North_Europe;Finland;2010;11,66;3,19;8,39;;;;;Unemployment, total;% of total labor force, national estimate;6,69;7,36;8,64;8,82;9,38;8,66;8,19;7,69;7,78;8,39;8,25;6,37;6,85;7,72;8,38;10,36;10,47;10,42;10,29;11,13;SL.UEM.TOTL.NE.ZS
+North_Europe;Finland;2011;10,23;2,55;7,78;;;;;GDP growth;Annual in %;1,27;1,31;3,19;2,81;0,54;-0,36;-0,90;-1,40;2,55;3,19;-8,07;0,78;5,30;4,03;2,78;3,99;2,00;1,71;2,61;5,77;NY.GDP.MKTP.KD.ZG
+North_Europe;Finland;2012;9,13;-1,40;7,69;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Finland;2013;9,23;-0,90;8,19;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Finland;2014;8,45;-0,36;8,66;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Finland;2015;7,81;0,54;9,38;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Finland;2016;8,32;2,81;8,82;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Finland;2017;7,81;3,19;8,64;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Finland;2018;8,04;1,31;7,36;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Finland;2019;NA;1,27;6,69;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;France;2009;5,31;-2,87;8,74;;;;;CO2 emissions;Metric tons per capita;NA;4,62;4,73;4,69;4,67;4,59;5,10;5,12;5,10;5,35;5,31;5,56;5,67;5,84;6,03;6,03;6,05;6,01;6,14;6,13;EN.ATM.CO2E.PC
+Western_Europe;France;2010;5,35;1,95;8,87;;;;;Unemployment, total;% of total labor force, national estimate;8,41;9,02;9,41;10,05;10,35;10,29;9,92;9,40;8,81;8,87;8,74;7,06;7,66;8,45;8,49;8,91;8,31;8,70;8,61;10,22;SL.UEM.TOTL.NE.ZS
+Western_Europe;France;2011;5,10;2,19;8,81;;;;;GDP growth;Annual in %;1,51;1,79;2,29;1,10;1,11;0,96;0,58;0,31;2,19;1,95;-2,87;0,25;2,42;2,45;1,66;2,83;0,82;1,14;1,98;3,92;NY.GDP.MKTP.KD.ZG
+Western_Europe;France;2012;5,12;0,31;9,40;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;France;2013;5,10;0,58;9,92;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;France;2014;4,59;0,96;10,29;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;France;2015;4,67;1,11;10,35;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;France;2016;4,69;1,10;10,05;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;France;2017;4,73;2,29;9,41;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;France;2018;4,62;1,79;9,02;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;France;2019;NA;1,51;8,41;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Germany;2009;8,97;-5,69;7,74;;;;;CO2 emissions;Metric tons per capita;NA;8,56;8,86;9,07;9,09;9,11;9,64;9,45;9,30;9,45;8,97;9,62;9,53;9,88;9,73;9,95;10,14;10,10;10,29;10,10;EN.ATM.CO2E.PC
+Central_Europe;Germany;2010;9,45;4,18;6,97;;;;;Unemployment, total;% of total labor force, national estimate;3,14;3,38;3,75;4,12;4,62;4,98;5,23;5,38;5,82;6,97;7,74;7,52;8,66;10,25;11,17;10,73;9,78;8,48;7,77;7,92;SL.UEM.TOTL.NE.ZS
+Central_Europe;Germany;2011;9,30;3,93;5,82;;;;;GDP growth;Annual in %;0,56;1,27;2,60;2,23;1,49;2,21;0,44;0,42;3,93;4,18;-5,69;0,96;2,98;3,82;0,73;1,18;-0,70;-0,20;1,68;2,91;NY.GDP.MKTP.KD.ZG
+Central_Europe;Germany;2012;9,45;0,42;5,38;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Germany;2013;9,64;0,44;5,23;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Germany;2014;9,11;2,21;4,98;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Germany;2015;9,09;1,49;4,62;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Germany;2016;9,07;2,23;4,12;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Germany;2017;8,86;2,60;3,75;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Germany;2018;8,56;1,27;3,38;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Central_Europe;Germany;2019;NA;0,56;3,14;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Greece;2009;8,53;-4,30;9,62;;;;;CO2 emissions;Metric tons per capita;NA;6,08;6,21;6,20;6,29;6,39;6,61;7,25;7,61;7,87;8,53;9,06;9,44;9,14;9,28;9,11;9,17;8,86;8,89;8,74;EN.ATM.CO2E.PC
+South_Europe;Greece;2010;7,87;-5,48;12,71;;;;;Unemployment, total;% of total labor force, national estimate;17,31;19,29;21,49;23,54;24,90;26,49;27,47;24,44;17,86;12,71;9,62;7,76;8,40;9,01;9,99;10,31;9,41;9,97;10,46;11,25;SL.UEM.TOTL.NE.ZS
+South_Europe;Greece;2011;7,61;-10,15;17,86;;;;;GDP growth;Annual in %;1,86;1,56;1,28;-0,49;-0,41;0,70;-2,74;-7,08;-10,15;-5,48;-4,30;-0,34;3,27;5,65;0,60;5,06;5,79;3,92;4,13;3,92;NY.GDP.MKTP.KD.ZG
+South_Europe;Greece;2012;7,25;-7,08;24,44;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Greece;2013;6,61;-2,74;27,47;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Greece;2014;6,39;0,70;26,49;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Greece;2015;6,29;-0,41;24,90;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Greece;2016;6,20;-0,49;23,54;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Greece;2017;6,21;1,28;21,49;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Greece;2018;6,08;1,56;19,29;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Greece;2019;NA;1,86;17,31;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Hungary;2009;4,77;-6,70;10,03;;;;;CO2 emissions;Metric tons per capita;NA;4,75;4,76;4,53;4,41;4,12;4,12;4,38;4,70;4,79;4,77;5,28;5,36;5,51;5,55;5,58;5,75;5,48;5,53;5,35;EN.ATM.CO2E.PC
+Eastern_Europe;Hungary;2010;4,79;1,12;11,17;;;;;Unemployment, total;% of total labor force, national estimate;3,42;3,71;4,16;5,11;6,81;7,73;10,18;11,00;11,03;11,17;10,03;7,82;7,41;7,49;7,19;5,83;5,79;5,61;5,67;6,56;SL.UEM.TOTL.NE.ZS
+Eastern_Europe;Hungary;2011;4,70;1,94;11,03;;;;;GDP growth;Annual in %;4,64;5,40;4,32;2,14;3,82;4,23;1,86;-1,38;1,94;1,12;-6,70;1,06;0,24;4,03;4,24;4,82;4,08;4,74;4,07;4,48;NY.GDP.MKTP.KD.ZG
+Eastern_Europe;Hungary;2012;4,38;-1,38;11,00;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Hungary;2013;4,12;1,86;10,18;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Hungary;2014;4,12;4,23;7,73;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Hungary;2015;4,41;3,82;6,81;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Hungary;2016;4,53;2,14;5,11;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Hungary;2017;4,76;4,32;4,16;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Hungary;2018;4,75;5,40;3,71;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Hungary;2019;NA;4,64;3,42;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Ireland;2009;9,04;-5,07;12,61;;;;;CO2 emissions;Metric tons per capita;NA;7,62;7,81;8,14;7,87;7,63;7,73;8,07;7,94;8,91;9,04;10,32;10,69;11,19;11,25;11,02;11,06;11,20;11,62;11,20;EN.ATM.CO2E.PC
+Western_Europe;Ireland;2010;8,91;1,77;14,53;;;;;Unemployment, total;% of total labor force, national estimate;4,95;5,74;6,71;8,37;9,91;11,86;13,73;15,45;15,35;14,53;12,61;6,77;4,98;4,41;4,34;4,49;4,48;4,22;3,68;4,32;SL.UEM.TOTL.NE.ZS
+Western_Europe;Ireland;2011;7,94;0,60;15,35;;;;;GDP growth;Annual in %;5,57;8,52;9,13;1,99;25,18;8,64;1,23;0,13;0,60;1,77;-5,07;-4,44;5,32;4,99;5,74;6,78;3,00;5,90;5,31;9,41;NY.GDP.MKTP.KD.ZG
+Western_Europe;Ireland;2012;8,07;0,13;15,45;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Ireland;2013;7,73;1,23;13,73;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Ireland;2014;7,63;8,64;11,86;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Ireland;2015;7,87;25,18;9,91;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Ireland;2016;8,14;1,99;8,37;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Ireland;2017;7,81;9,13;6,71;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Ireland;2018;7,62;8,52;5,74;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Ireland;2019;NA;5,57;4,95;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Italy;2009;6,72;-5,28;7,75;;;;;CO2 emissions;Metric tons per capita;NA;5,38;5,44;5,50;5,56;5,39;5,75;6,33;6,68;6,84;6,72;7,56;7,86;8,03;8,17;8,19;8,06;7,77;7,66;7,66;EN.ATM.CO2E.PC
+South_Europe;Italy;2010;6,84;1,71;8,36;;;;;Unemployment, total;% of total labor force, national estimate;9,95;10,61;11,21;11,69;11,90;12,68;12,15;10,65;8,36;8,36;7,75;6,72;6,08;6,78;7,73;7,87;8,87;9,21;9,60;10,84;SL.UEM.TOTL.NE.ZS
+South_Europe;Italy;2011;6,68;0,71;8,36;;;;;GDP growth;Annual in %;0,29;0,94;1,67;1,29;0,78;0,00;-1,84;-2,98;0,71;1,71;-5,28;-0,96;1,49;1,79;0,82;1,42;0,14;0,25;1,95;3,79;NY.GDP.MKTP.KD.ZG
+South_Europe;Italy;2012;6,33;-2,98;10,65;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Italy;2013;5,75;-1,84;12,15;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Italy;2014;5,39;0,00;12,68;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Italy;2015;5,56;0,78;11,90;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Italy;2016;5,50;1,29;11,69;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Italy;2017;5,44;1,67;11,21;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Italy;2018;5,38;0,94;10,61;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Italy;2019;NA;0,29;9,95;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Latvia;2009;3,44;-14,26;17,51;;;;;CO2 emissions;Metric tons per capita;NA;3,96;3,67;3,65;3,70;3,65;3,70;3,72;3,84;4,06;3,44;3,72;3,88;3,70;3,45;3,37;3,32;3,18;3,15;2,93;EN.ATM.CO2E.PC
+Eastern_Europe;Latvia;2010;4,06;-4,41;19,48;;;;;Unemployment, total;% of total labor force, national estimate;6,31;7,41;8,72;9,64;9,87;10,85;11,87;15,05;16,21;19,48;17,51;7,74;6,05;7,03;10,03;11,71;12,06;13,83;13,82;14,21;SL.UEM.TOTL.NE.ZS
+Eastern_Europe;Latvia;2011;3,84;6,47;16,21;;;;;GDP growth;Annual in %;2,03;4,02;3,25;2,37;4,01;1,07;2,31;4,25;6,47;-4,41;-14,26;-3,33;10,03;11,99;10,73;8,50;8,43;7,08;6,32;5,67;NY.GDP.MKTP.KD.ZG
+Eastern_Europe;Latvia;2012;3,72;4,25;15,05;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Latvia;2013;3,70;2,31;11,87;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Latvia;2014;3,65;1,07;10,85;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Latvia;2015;3,70;4,01;9,87;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Latvia;2016;3,65;2,37;9,64;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Latvia;2017;3,67;3,25;8,72;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Latvia;2018;3,96;4,02;7,41;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Latvia;2019;NA;2,03;6,31;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Luxembourg;2009;21,01;-4,36;5,12;;;;;CO2 emissions;Metric tons per capita;NA;15,33;15,09;15,22;16,03;17,35;18,68;20,13;21,09;21,82;21,01;22,59;23,21;24,84;25,67;25,50;22,72;22,05;20,70;19,67;EN.ATM.CO2E.PC
+Western_Europe;Luxembourg;2010;21,82;4,86;4,36;;;;;Unemployment, total;% of total labor force, national estimate;5,59;5,59;5,52;6,29;6,67;5,85;5,85;5,14;4,90;4,36;5,12;5,06;4,07;4,73;4,49;5,11;3,68;2,62;1,81;2,35;SL.UEM.TOTL.NE.ZS
+Western_Europe;Luxembourg;2011;21,09;2,54;4,90;;;;;GDP growth;Annual in %;2,30;3,11;1,80;4,57;4,31;4,30;3,65;-0,35;2,54;4,86;-4,36;-1,28;8,35;5,18;3,17;3,61;1,63;3,82;2,53;8,24;NY.GDP.MKTP.KD.ZG
+Western_Europe;Luxembourg;2012;20,13;-0,35;5,14;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Luxembourg;2013;18,68;3,65;5,85;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Luxembourg;2014;17,35;4,30;5,85;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Luxembourg;2015;16,03;4,31;6,67;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Luxembourg;2016;15,22;4,57;6,29;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Luxembourg;2017;15,09;1,80;5,52;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Luxembourg;2018;15,33;3,11;5,59;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Luxembourg;2019;NA;2,30;5,59;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Malta;2009;6,09;-1,13;6,89;;;;;CO2 emissions;Metric tons per capita;NA;3,20;3,25;2,96;3,71;5,41;5,56;6,45;6,17;6,22;6,09;6,64;6,66;6,54;6,49;6,48;6,55;5,86;6,34;5,46;EN.ATM.CO2E.PC
+South_Europe;Malta;2010;6,22;5,54;6,85;;;;;Unemployment, total;% of total labor force, national estimate;3,62;3,66;4,00;4,69;5,38;5,72;6,11;6,20;6,38;6,85;6,89;5,98;6,47;6,80;6,92;7,32;7,49;6,90;7,11;6,32;SL.UEM.TOTL.NE.ZS
+South_Europe;Malta;2011;6,17;0,47;6,38;;;;;GDP growth;Annual in %;5,54;5,18;8,12;4,09;9,61;7,63;5,47;4,12;0,47;5,54;-1,13;3,83;4,77;2,51;3,38;0,14;4,07;2,57;-1,17;19,68;NY.GDP.MKTP.KD.ZG
+South_Europe;Malta;2012;6,45;4,12;6,20;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Malta;2013;5,56;5,47;6,11;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Malta;2014;5,41;7,63;5,72;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Malta;2015;3,71;9,61;5,38;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Malta;2016;2,96;4,09;4,69;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Malta;2017;3,25;8,12;4,00;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Malta;2018;3,20;5,18;3,66;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Malta;2019;NA;5,54;3,62;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Lithuania;2009;3,70;-14,84;13,79;;;;;CO2 emissions;Metric tons per capita;NA;4,14;3,97;3,90;3,81;3,70;3,83;3,99;3,91;4,07;3,70;4,08;4,09;3,98;3,86;3,53;3,29;3,26;3,21;3,00;EN.ATM.CO2E.PC
+Eastern_Europe;Lithuania;2010;4,07;1,65;17,81;;;;;Unemployment, total;% of total labor force, national estimate;6,26;6,15;7,07;7,86;9,12;10,70;11,77;13,36;15,39;17,81;13,79;5,83;4,25;5,78;8,32;10,68;12,87;13,01;16,84;15,93;SL.UEM.TOTL.NE.ZS
+Eastern_Europe;Lithuania;2011;3,91;6,04;15,39;;;;;GDP growth;Annual in %;4,34;3,94;4,28;2,52;2,02;3,54;3,55;3,84;6,04;1,65;-14,84;2,61;11,11;7,41;7,73;6,57;10,57;6,75;6,53;3,70;NY.GDP.MKTP.KD.ZG
+Eastern_Europe;Lithuania;2012;3,99;3,84;13,36;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Lithuania;2013;3,83;3,55;11,77;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Lithuania;2014;3,70;3,54;10,70;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Lithuania;2015;3,81;2,02;9,12;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Lithuania;2016;3,90;2,52;7,86;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Lithuania;2017;3,97;4,28;7,07;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Lithuania;2018;4,14;3,94;6,15;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Lithuania;2019;NA;4,34;6,26;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Netherlands;2009;9,71;-3,67;4,35;;;;;CO2 emissions;Metric tons per capita;NA;8,77;9,10;9,29;9,33;8,89;9,35;9,40;9,52;10,30;9,71;10,06;10,05;10,02;10,29;10,57;10,51;10,37;10,43;10,19;EN.ATM.CO2E.PC
+Western_Europe;Netherlands;2010;10,30;1,34;4,99;;;;;Unemployment, total;% of total labor force, national estimate;3,38;3,83;4,84;6,01;6,87;7,42;7,24;5,82;4,98;4,99;4,35;3,65;4,15;5,00;5,87;4,65;3,59;2,55;2,12;2,73;SL.UEM.TOTL.NE.ZS
+Western_Europe;Netherlands;2011;9,52;1,55;4,98;;;;;GDP growth;Annual in %;1,68;2,36;2,91;2,19;1,96;1,42;-0,13;-1,03;1,55;1,34;-3,67;2,17;3,77;3,46;2,05;1,98;0,16;0,22;2,33;4,20;NY.GDP.MKTP.KD.ZG
+Western_Europe;Netherlands;2012;9,40;-1,03;5,82;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Netherlands;2013;9,35;-0,13;7,24;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Netherlands;2014;8,89;1,42;7,42;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Netherlands;2015;9,33;1,96;6,87;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Netherlands;2016;9,29;2,19;6,01;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Netherlands;2017;9,10;2,91;4,84;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Netherlands;2018;8,77;2,36;3,83;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Western_Europe;Netherlands;2019;NA;1,68;3,38;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Portugal;2009;5,33;-3,12;9,43;;;;;CO2 emissions;Metric tons per capita;NA;4,84;5,18;4,72;4,81;4,42;4,45;4,59;4,72;4,82;5,33;5,38;5,58;5,74;6,23;5,93;5,79;6,30;5,92;5,99;EN.ATM.CO2E.PC
+South_Europe;Portugal;2010;4,82;1,74;10,77;;;;;Unemployment, total;% of total labor force, national estimate;6,46;6,99;8,87;11,07;12,44;13,89;16,18;15,53;12,68;10,77;9,43;7,55;7,96;7,65;7,58;6,32;6,13;4,50;3,83;3,81;SL.UEM.TOTL.NE.ZS
+South_Europe;Portugal;2011;4,72;-1,70;12,68;;;;;GDP growth;Annual in %;2,49;2,85;3,51;2,02;1,79;0,79;-0,92;-4,06;-1,70;1,74;-3,12;0,32;2,51;1,63;0,78;1,79;-0,93;0,77;1,94;3,82;NY.GDP.MKTP.KD.ZG
+South_Europe;Portugal;2012;4,59;-4,06;15,53;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Portugal;2013;4,45;-0,92;16,18;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Portugal;2014;4,42;0,79;13,89;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Portugal;2015;4,81;1,79;12,44;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Portugal;2016;4,72;2,02;11,07;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Portugal;2017;5,18;3,51;8,87;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Portugal;2018;4,84;2,85;6,99;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Portugal;2019;NA;2,49;6,46;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Poland;2009;7,79;2,83;8,17;;;;;CO2 emissions;Metric tons per capita;NA;8,24;8,24;7,89;7,61;7,52;7,84;7,97;8,16;8,25;7,79;8,09;8,22;8,23;7,90;7,90;7,79;7,51;7,68;7,73;EN.ATM.CO2E.PC
+Eastern_Europe;Poland;2010;8,25;3,74;9,64;;;;;Unemployment, total;% of total labor force, national estimate;3,28;3,85;4,89;6,16;7,50;8,99;10,33;10,09;9,63;9,64;8,17;7,12;9,60;13,84;17,75;19,07;19,37;19,89;18,37;16,31;SL.UEM.TOTL.NE.ZS
+Eastern_Europe;Poland;2011;8,16;4,76;9,63;;;;;GDP growth;Annual in %;4,54;5,35;4,83;3,14;4,24;3,38;1,13;1,32;4,76;3,74;2,83;4,20;7,06;6,13;3,51;4,98;3,50;2,04;1,26;4,56;NY.GDP.MKTP.KD.ZG
+Eastern_Europe;Poland;2012;7,97;1,32;10,09;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Poland;2013;7,84;1,13;10,33;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Poland;2014;7,52;3,38;8,99;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Poland;2015;7,61;4,24;7,50;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Poland;2016;7,89;3,14;6,16;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Poland;2017;8,24;4,83;4,89;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Poland;2018;8,24;5,35;3,85;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Poland;2019;NA;4,54;3,28;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Slovenia;2009;7,61;-7,55;5,86;;;;;CO2 emissions;Metric tons per capita;NA;6,77;6,84;6,75;6,38;6,39;7,09;7,37;7,66;7,72;7,61;8,60;8,08;8,13;7,96;7,87;7,73;7,78;7,72;7,31;EN.ATM.CO2E.PC
+South_Europe;Slovenia;2010;7,72;1,34;7,24;;;;;Unemployment, total;% of total labor force, national estimate;4,45;5,11;6,56;8,00;8,96;9,67;10,10;8,84;8,17;7,24;5,86;4,37;4,82;5,95;6,51;6,01;6,48;5,92;5,68;6,92;SL.UEM.TOTL.NE.ZS
+South_Europe;Slovenia;2011;7,66;0,86;8,17;;;;;GDP growth;Annual in %;3,18;4,38;4,79;3,19;2,21;2,77;-1,03;-2,64;0,86;1,34;-7,55;3,51;6,98;5,75;3,80;4,36;2,96;3,51;3,22;3,67;NY.GDP.MKTP.KD.ZG
+South_Europe;Slovenia;2012;7,37;-2,64;8,84;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Slovenia;2013;7,09;-1,03;10,10;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Slovenia;2014;6,39;2,77;9,67;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Slovenia;2015;6,38;2,21;8,96;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Slovenia;2016;6,75;3,19;8,00;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Slovenia;2017;6,84;4,79;6,56;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Slovenia;2018;6,77;4,38;5,11;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Slovenia;2019;NA;3,18;4,45;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Spain;2009;6,20;-3,76;17,86;;;;;CO2 emissions;Metric tons per capita;NA;5,52;5,65;5,31;5,52;5,18;5,21;5,76;5,87;5,87;6,20;7,05;7,84;7,70;8,03;7,82;7,55;7,55;7,22;7,23;EN.ATM.CO2E.PC
+South_Europe;Spain;2010;5,87;0,16;19,86;;;;;Unemployment, total;% of total labor force, national estimate;14,1;15,25;17,22;19,63;22,06;24,44;26,09;24,79;21,39;19,86;17,86;11,25;8,23;8,45;9,15;11,09;11,28;11,15;10,35;13,79;SL.UEM.TOTL.NE.ZS
+South_Europe;Spain;2011;5,87;-0,81;21,39;;;;;GDP growth;Annual in %;1,95;2,43;2,97;3,03;3,84;1,38;-1,44;-2,96;-0,81;0,16;-3,76;0,89;3,60;4,10;3,65;3,12;2,98;2,73;3,93;5,25;NY.GDP.MKTP.KD.ZG
+South_Europe;Spain;2012;5,76;-2,96;24,79;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Spain;2013;5,21;-1,44;26,09;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Spain;2014;5,18;1,38;24,44;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Spain;2015;5,52;3,84;22,06;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Spain;2016;5,31;3,03;19,63;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Spain;2017;5,65;2,97;17,22;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Spain;2018;5,52;2,43;15,25;;;;;;;;;;;;;;;;;;;;;;;;;;;
+South_Europe;Spain;2019;NA;1,95;14,10;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Sweden;2009;4,61;-4,34;8,35;;;;;CO2 emissions;Metric tons per capita;NA;3,54;3,81;3,91;4,00;4,03;4,22;4,43;4,72;5,13;4,61;5,01;5,15;5,39;5,56;5,96;6,16;6,05;5,90;6,01;EN.ATM.CO2E.PC
+North_Europe;Sweden;2010;5,13;5,95;8,61;;;;;Unemployment, total;% of total labor force, national estimate;6,83;6,36;6,72;6,99;7,43;7,95;8,05;7,98;7,80;8,61;8,35;6,23;6,16;7,07;7,49;6,69;5,55;4,97;4,73;5,47;SL.UEM.TOTL.NE.ZS
+North_Europe;Sweden;2011;4,72;3,20;7,80;;;;;GDP growth;Annual in %;1,37;1,95;2,57;2,07;4,49;2,66;1,19;-0,59;3,20;5,95;-4,34;-0,45;3,44;4,66;2,86;4,34;2,31;2,20;1,45;4,77;NY.GDP.MKTP.KD.ZG
+North_Europe;Sweden;2012;4,43;-0,59;7,98;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Sweden;2013;4,22;1,19;8,05;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Sweden;2014;4,03;2,66;7,95;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Sweden;2015;4,00;4,49;7,43;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Sweden;2016;3,91;2,07;6,99;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Sweden;2017;3,81;2,57;6,72;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Sweden;2018;3,54;1,95;6,36;;;;;;;;;;;;;;;;;;;;;;;;;;;
+North_Europe;Sweden;2019;NA;1,37;6,83;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Slovak Republic;2009;6,28;-5,46;12,03;;;;;CO2 emissions;Metric tons per capita;NA;6,06;6,17;5,80;5,67;5,62;6,08;5,99;6,32;6,58;6,28;6,89;6,93;7,05;7,17;6,97;7,14;7,08;7,17;7,06;EN.ATM.CO2E.PC
+Eastern_Europe;Slovak Republic;2010;6,58;5,87;14,38;;;;;Unemployment, total;% of total labor force, national estimate;5,75;6,54;8,13;9,67;11,48;13,18;14,22;13,96;13,62;14,38;12,03;9,51;11,14;13,37;16,26;18,60;17,12;18,72;19,38;19,06;SL.UEM.TOTL.NE.ZS
+Eastern_Europe;Slovak Republic;2011;6,32;2,85;13,62;;;;;GDP growth;Annual in %;2,51;3,65;2,99;2,13;4,81;2,64;0,67;1,90;2,85;5,87;-5,46;5,57;10,83;8,49;6,62;5,28;5,50;4,51;3,25;1,17;NY.GDP.MKTP.KD.ZG
+Eastern_Europe;Slovak Republic;2012;5,99;1,90;13,96;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Slovak Republic;2013;6,08;0,67;14,22;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Slovak Republic;2014;5,62;2,64;13,18;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Slovak Republic;2015;5,67;4,81;11,48;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Slovak Republic;2016;5,80;2,13;9,67;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Slovak Republic;2017;6,17;2,99;8,13;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Slovak Republic;2018;6,06;3,65;6,54;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Slovak Republic;2019;NA;2,51;5,75;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Romania;2009;3,95;-5,52;6,86;;;;;CO2 emissions;Metric tons per capita;NA;3,85;3,78;3,61;3,68;3,59;3,60;4,07;4,17;3,83;3,95;4,64;4,62;4,67;4,49;4,51;4,62;4,31;4,25;3,96;EN.ATM.CO2E.PC
+Eastern_Europe;Romania;2010;3,83;-3,90;6,96;;;;;Unemployment, total;% of total labor force, national estimate;3,91;4,19;4,93;5,90;6,81;6,80;7,10;6,79;7,18;6,96;6,86;5,79;6,41;7,27;7,17;7,72;6,95;8,11;6,56;6,97;SL.UEM.TOTL.NE.ZS
+Eastern_Europe;Romania;2011;4,17;1,91;7,18;;;;;GDP growth;Annual in %;4,13;4,47;7,32;4,70;2,95;3,61;3,77;2,04;1,91;-3,90;-5,52;9,31;7,23;8,03;4,67;10,43;2,34;5,70;5,22;2,46;NY.GDP.MKTP.KD.ZG
+Eastern_Europe;Romania;2012;4,07;2,04;6,79;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Romania;2013;3,60;3,77;7,10;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Romania;2014;3,59;3,61;6,80;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Romania;2015;3,68;2,95;6,81;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Romania;2016;3,61;4,70;5,90;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Romania;2017;3,78;7,32;4,93;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Romania;2018;3,85;4,47;4,19;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Eastern_Europe;Romania;2019;NA;4,13;3,91;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Data from database: Sustainable Development Goals (SDGs);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Last Updated: 07/02/2021;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

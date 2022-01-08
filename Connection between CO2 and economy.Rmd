@@ -1,0 +1,198 @@
+---
+title: "Connection between Co2 and economy"
+author: "Jonathan Cheviet-Andersen"
+date: "1/10/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Creating folders
+```{r, include=FALSE}
+dir.create("data")
+dir.create("outputs")
+dir.create("figures")
+```
+
+## Packages 
+```{r, libraries}
+## install.packages("gganimate")
+## install.packages("gifski")
+## install.packages("av")
+## install.packages("tidyverse")
+## install.packages("here)
+## install.packages("ggplot2")
+## install.packages("plotly")
+## install.packages("ggthemes")
+
+library(gganimate)
+library(gifski)
+library(av)
+library(tidyverse)
+library(here)
+library(readr)
+library(ggplot2)
+library(plotly)
+library(ggthemes)
+```
+# Importing data
+```{r, importing data}
+library(readr)
+Data_Frame <-  read_delim("Digital-metode-eksamen-datasæt-i-exel.csv", 
+    delim = ";", escape_double = FALSE, col_types = cols(CO2_emissions = col_number(), 
+        GDP_growth = col_number(), Unemployment_total = col_number(), 
+        Average_CO2_emissions_regions = col_number(), 
+        Average_GDP_growth_regions = col_number()), 
+    trim_ws = TRUE)
+```
+
+# Numeric
+Firstly I making sure that my three different coloums are counted as numeric.
+```{r, numeric}
+"CO2_emissions" <- as.numeric
+"GDP_growth" <- as.numeric
+"Unemployment_total" <- as.numeric
+"Year" <-as.numeric
+```
+
+# All the data
+```{r}
+str(Data_Frame)
+unique(Data_Frame$year)
+head(Data_Frame)
+```
+
+## Including plots
+Because I want to examin the connection between CO2 emissions and GDP growth, I firstly want to analyse  the top five countries in CO2 emissions and thereafter their GDP growth. These next plots will include six different plots. The first three will contain the five nations in 2010, 2015, and 2018 with the highest level of CO2 emissions. The next three plots will have the same codes but instead it exains the GDP growth.  
+
+```{r CO2 emissions in 2010 in metric tons per capita per year}
+Data_Frame %>%
+  filter(Year == 2010) %>%
+  select(Country_Name, CO2_emissions) %>%
+  arrange(desc(CO2_emissions)) %>%
+  mutate(CO2_emissions/100)
+  head(5)
+```
+
+```{r CO2 emissions in 2015 in metric per capita per year}
+Data_Frame %>%
+  filter(Year == 2015) %>%
+  select(Country_Name, CO2_emissions) %>%
+  arrange(desc(CO2_emissions)) %>%
+  mutate(CO2_emissions/100)
+  head(5)
+```
+
+```{r CO2 emissions in 2018 in metric tons per capita per year }
+Data_Frame %>%
+  filter(Year == 2018) %>%
+  select(Country_Name, CO2_emissions) %>%
+  arrange(desc(CO2_emissions)) %>%
+  mutate(CO2_emissions/100)
+  head(5)
+```
+
+```{r GDP growth in 2010 in %}
+Data_Frame %>%
+  filter(Year == 2010) %>%
+  select(Country_Name, GDP_growth) %>%
+  arrange(desc(GDP_growth)) %>%
+  mutate(GDP_growth/100)
+  head(5)
+```
+
+```{r GDP growth in 2015 in %}
+Data_Frame %>%
+  filter(Year == 2015) %>%
+  select(Country_Name, GDP_growth) %>%
+  arrange(desc(GDP_growth)) %>%
+  mutate(GDP_growth/100)
+  head(5)
+```
+
+```{r GDP growth in 2018 in %}
+Data_Frame %>%
+  filter(Year == 2018) %>%
+  select(Country_Name, GDP_growth) %>%
+  arrange(desc(GDP_growth)) %>%
+  mutate(GDP_growth/100)
+  head(5)
+```
+
+
+# Graphs CO2 emissions and GDP growth in 2010
+```{r CO2 emissions(In metric tons per.cap) and GDP growth in 2010}
+ggplot(subset(Data_Frame, Year == 2010), aes(GDP_growth/100, Unemployment_total/100, size = CO2_emissions/100, color = Regions)) +
+  ylab("Unemployment_total in %") + 
+  xlab("GDP_growth in %") + 
+  geom_point() +
+  scale_x_log10() +
+  ggtitle("CO2 emissions(In metric tons per.cap) and GDP growth in 2010")
+```
+
+
+# CO2 emissions and GDP growth i 2015
+```{r CO2 emissions(In metric tons per.cap) and GDP growth in 2015}
+ggplot(subset(Data_Frame, Year == 2015), aes(GDP_growth/100, Unemployment_total/100, size = CO2_emissions/100, color = Regions)) +
+  ylab("Unemployment_total in %") + 
+  xlab("GDP_growth in %") + 
+  geom_point() +
+  scale_x_log10() +
+  ggtitle("CO2 emissions(In metric tons per.cap) and GDP growth in 2015")
+seq(2010, 2015, length.out = 6)
+```
+
+# Graphs CO2 emissions and GDP growth in 2018
+```{r CO2 emissions(In metric tons per.cap) and GDP growth in 2018}
+ggplot(subset(Data_Frame, Year == 2018), aes(GDP_growth/100, Unemployment_total/100, size = CO2_emissions/100, color = Regions)) +
+  ylab("Unemployment_total in %") + 
+  xlab("GDP_growth in %") + 
+  geom_point() +
+  scale_x_log10() +
+  ggtitle("CO2 emissions(In metric tons per.cap) and GDP growth in 2018")
+seq(2010, 2018, length.out = 9)
+```
+# Throughout the years
+```{r, all the numbers throughout the years}
+theme_set(theme_classic()) 
+options(scipen = 999)
+
+Graph1 <- ggplot() + 
+  geom_point(aes(y = Unemployment_total/100, x = GDP_growth/100, size = CO2_emissions/100, color = Regions), data = Data_Frame) + 
+  ylab("Unemployment_total") + 
+  xlab("GDP_growth in %") + 
+  ggtitle("The Connection Between CO2 emissions and GDP growth") +
+scale_y_continuous()
+transition_time(2010, 2018)
+
+```
+
+```{r}
+Graph1
+```
+
+```{r}
+Graph1.animation =Graph1 + 
+  transition_time(Year)
+```
+
+# CO2 emissions over time
+```{r, CO2 emissions over time}
+ggplot(Data_Frame) +  aes(x = Year2, y = Average_CO2_emissions_regions/100, color = Average_regions,) + geom_path()+ 
+  labs(title = "CO2 emissions average for each region over time",  
+       x = "Year",
+       y = "CO2 emissions")
+theme_set(theme_linedraw())
+```
+
+
+# GDP growth over time
+```{r, GDP growth over time } 
+ggplot(Data_Frame) +  aes(x = Year2, y = Average_GDP_growth_regions/100, color = Average_regions, ) + geom_path()+ 
+  labs(title = "GDP growth over the time",  
+       x = "Year",
+       y = "GDP growth")
+theme_set(theme_linedraw())
+```
